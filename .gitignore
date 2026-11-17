@@ -1,0 +1,11 @@
+node_modules/
+
+dist/
+
+.slidev/
+
+build-demo/*.i
+build-demo/*.s
+build-demo/*.o
+build-demo/irrigation-demo
+build-demo/missing-definition-demo
